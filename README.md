@@ -8,3 +8,6 @@ Definicion:
 
 tambien incluyendo un ejemplo a manera de codigo de lo que puede ser un analizador lexico
 ![image](https://github.com/BAMGtheBrownie/Analizador-Lexico-Mini/assets/149034006/b4187387-a89e-40fa-94e0-55ff9c663f65)
+
+
+Para mas Detalles sobre lo que puede ser un analizador lexico se toma en cuenta el siguiente enlace: (https://docs.google.com/document/d/1qrXkJkbUOOi4Y1FjWE1Yw2SwNTZO7rED_lhsnJ-wIns/edit?usp=sharing).
